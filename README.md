@@ -32,6 +32,8 @@ Atualmente busco oportunidades de desenvolver minha carreira de forma que possa 
 
 ------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=carlos-a-reis&show_icons=true&theme=dark&locale=en" alt="carlos-a-reis" /></p>
-
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-a-reis&show_icons=true&locale=en&layout=compact" alt="carlos-a-reis" /></p>
+<img align="left" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlos-a-reis&theme=tokyonight"/>
+<img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlos-a-reis&theme=tokyonight"/>
+<img align="left" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlos-a-reis&theme=tokyonight"/>
+<img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlos-a-reis&theme=tokyonight&utcOffset=8"/>
+<img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-a-reis&theme=tokyonight"/>
