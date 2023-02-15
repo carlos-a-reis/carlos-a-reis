@@ -20,9 +20,9 @@ Atualmente busco oportunidades de desenvolver minha carreira de forma que possa 
 
 ------------
 
-<h3 align="left">Contatos:</h3>
+<h2 align="left">Contatos:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-augusto-dos-reis" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlos-augusto-dos-reis"/></a> <a href="mailto:carlos.aug.dosreis@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="carlos-augusto-dos-reis"/></a>
+<a href="https://github.com/carlos-a-reis" target="blank"><img align="center" src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github" alt="carlos-augusto-dos-reis"/></a> <a href="https://linkedin.com/in/carlos-augusto-dos-reis" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlos-augusto-dos-reis"/></a> <a href="mailto:carlos.aug.dosreis@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="carlos-augusto-dos-reis"/></a> <a href="https://api.whatsapp.com/send/?phone=27992037517" target="blank"><img align="center" src="https://img.shields.io/badge/whatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="carlos-augusto-dos-reis"/></a>
 </p>
 
 ------------
