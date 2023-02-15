@@ -1,6 +1,6 @@
 ------------
 
-![Imagem de cabeçalho com o texto "Olá, sou o Carlos Augusto](header.png)
+![Imagem de cabeçalho com o texto "Olá, sou o Carlos Augusto](assets/header.png)
 
 ------------
 
