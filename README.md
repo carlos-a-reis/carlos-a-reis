@@ -5,7 +5,7 @@
 ------------
 
 <h2>Sobre mim:</h2>
-<p>
+<p align="justify">
 Sou um programador full stack junior com formação técnica pela <a href="https://www.betrybe.com/"  target="blank">Trybe</a>, com mais de 1.500 horas de aulas e mais de 30 projetos onde pude praticar meus conhecimentos adquiridos em diversas tecnologias como JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, Typescript, Python, MongoDB, Jest, React Testing Library, entre outras linguagens e frameworks.
 Durante este curso também tive a oportunidade de ter experiências com projetos em grupo onde pude exercitar práticas de soft skills como liderança, comunicação, gestão de tempo, colaboração, pensamento crítico, metodologias ágeis (Scrum e Kanban), entre outras.
 
@@ -29,6 +29,22 @@ Atualmente busco oportunidades de desenvolver minha carreira de forma que possa 
 
 <h2 align="left">Linguagens e ferramentas:</h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="/assets/bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/assets/css.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="/assets/docker.svg" alt="docker" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="/assets/express.svg" alt="express" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="/assets/heroku.svg" alt="heroku" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="/assets/html.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="/assets/javascript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="/assets/html.svg" alt="html5" width="50" height="50"/> </a> <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img src="/assets/jest.svg" alt="jest" width="50" height="50"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="/assets/mocha.svg" alt="mocha" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="/assets/mongodb.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="/assets/mysql.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="/assets/node.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/assets/python.svg" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="/assets/react.svg" alt="react" width="50" height="50"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="/assets/redux.svg" alt="redux" width="50" height="50"/> </a> <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="/assets/sequelize.svg" alt="sequelize" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="/assets/tailwind.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="/assets/testing_library.svg" alt="testing library" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="/assets/typescript.svg" alt="typescript" width="50" height="50"/> </a> </p>
+
+------------
+
+<h2 align="left">Meu tempo livre:</h2>
+<ul>
+  <li>:video_game:  Gosto de video games e jogos de tabuleiro.</li>
+  <br/>
+  <li>:game_die:  Sempre que possível me reúno com meus amigos para jogar <a href="https://pt.wikipedia.org/wiki/Role-playing_game" target="blank">RPG</a>.<br/>
+      Atualmente estou jogando o clássico sistema <a href="https://dnd.wizards.com/pt-BR"  target="blank">D&D</a>.</li>
+  <br/>
+  <li>:books:  Curto ler <a href="https://pt.wikipedia.org/wiki/Mang%C3%A1"  target="blank">mangás</a> e livros de ficção cientifica, fantasia e terror.</li>
+  <br/>
+  <li>:musical_note:  Tenho um gosto musical bem eclético.<br/>
+      Estou sempre escutando algo diferente.
+  </li>
+</ul>
 
 ------------
 
